@@ -1,0 +1,20 @@
+"Colin's HTML": {
+  "scope": "html",
+  "prefix": "html-skeleton",
+  "body": [
+      "<!DOCTYPE html>",
+      "<html lang=\"en\">",
+      "\t<head>",
+      "\t\t<title>${1:Project for Colin}</title>",
+      "\t\t<meta charset=\"UTF-8\">",
+      "\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+      "\t\t<link href=\"${2:main.css}\" rel=\"stylesheet\" type=\"text/css\">",
+      "\t\t<script src=\"${3:main.js}\"></script>",
+      "\t</head>",
+      "\t<body>",
+      "\t\t$4",
+      "\t</body>",
+      "</html>"
+  ],
+  "description": "My version of the html skeleton"
+}
